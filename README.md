@@ -1,10 +1,11 @@
 <div align="center">
   
-  <img src="./imagenes/yo animado removed.png" width="220" alt="Jesús Martínez" />
-  
+  <!-- Tu imagen de encabezado de Pinterest -->
+  <img src="https://pin.it/77Wj0yFDh" alt="Jesús Manuel Martínez Serpa - Banner" width="100%" />
+
   <br/><br/>
 
-  <h1>Jesús Martínez</h1>
+  <h1>Jesús Manuel Martínez Serpa</h1>
   <p><b>Frontend Developer</b></p>
   
   <p>
@@ -14,6 +15,7 @@
 
   <br/>
 
+  <!-- Conectividad y Redes Sociales -->
   <div>
     <a href="https://www.linkedin.com/in/jesus-manuel-martinez-serpa-088ab33a0" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -34,7 +36,7 @@
 
 ### Stack Tecnológico
 
-A lo largo de mi trayectoria, he consolidado mi experiencia trabajando con las siguientes herramientas y tecnologías del ecosistema moderno:
+Ecosistema de herramientas y tecnologías utilizadas para el desarrollo de aplicaciones web modernas:
 
 <br/>
 
@@ -57,14 +59,15 @@ A lo largo de mi trayectoria, he consolidado mi experiencia trabajando con las s
 
 ### Filosofía de Desarrollo
 
-- **Código Limpio:** Desarrollo pensando en el mantenimiento, la legibilidad y la escalabilidad a largo plazo.
-- **Rendimiento:** Priorizo la optimización en la carga y la ejecución para garantizar una experiencia de navegación fluida.
-- **Diseño Adaptativo:** Implementación de interfaces fluidas y "pixel-perfect" desde dispositivos móviles hasta pantallas de escritorio.
+- **Código Limpio:** Desarrollo estructurado pensando en el mantenimiento, la legibilidad y la escalabilidad a largo plazo.
+- **Rendimiento:** Priorizo la optimización en la carga y la ejecución para garantizar una navegación fluida.
+- **Diseño Adaptativo:** Implementación de interfaces fluidas y "pixel-perfect" adaptadas a cualquier tipo de dispositivo.
 
 <br/>
 <hr/>
 <br/>
 
+<!-- Tu GIF de Giphy -->
 <div align="center">
-  <img src="./imagenes/gif.gif" alt="Animación final" width="250" />
+  <img src="https://giphy.com/explore/developer" alt="Developer Coding" width="380" />
 </div>

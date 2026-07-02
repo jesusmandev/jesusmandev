@@ -55,5 +55,5 @@ Diseño Adaptativo: Implementación de interfaces fluidas y "pixel-perfect" adap
 
 <!-- GIF de Cierre (Enlace directo CDN oficial de Giphy sin bloqueos) -->
 <div align="center">
-<img src="[https://i.giphy.com/3pLTE7DBSzeSvvDSxB.gif](https://giphy.com/explore/developer)" alt="Developer Coding Animation" width="380" />
+<img src="https://giphy.com/gifs/alliance-dao-alliancedao-OLPQ6z2hlHmwFc4Hso" alt="Developer Coding Animation" width="380" />
 </div>
